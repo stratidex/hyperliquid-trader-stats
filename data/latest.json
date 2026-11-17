@@ -1,0 +1,65 @@
+{
+  "name": "Hyperliquid trader statistics",
+  "date": "2026-11-17",
+  "generated": "2026-11-17T19:23:10.762Z",
+  "source": "https://stats-data.hyperliquid.xyz/Mainnet/leaderboard",
+  "page": "https://stratidex.io/stats",
+  "license": "CC BY 4.0",
+  "attribution": "StratiDex (stratidex.io)",
+  "accounts": 48116,
+  "accountValue": {
+    "median": 392,
+    "over1M": 2372,
+    "over100k": 13316
+  },
+  "periods": {
+    "24h": {
+      "active": 7429,
+      "inProfit": 3745,
+      "atLoss": 3537,
+      "shareInProfit": 0.5041,
+      "shareAtLoss": 0.4761,
+      "medianRoi": 0.0001,
+      "shareAbove100pct": 0.0015,
+      "profitsUsd": 66122252,
+      "lossesUsd": -33837726,
+      "top1ShareOfProfits": 0.6411
+    },
+    "7d": {
+      "active": 14076,
+      "inProfit": 4475,
+      "atLoss": 8458,
+      "shareInProfit": 0.3179,
+      "shareAtLoss": 0.6009,
+      "medianRoi": -0.0524,
+      "shareAbove100pct": 0.0157,
+      "profitsUsd": 441201670,
+      "lossesUsd": -347539914,
+      "top1ShareOfProfits": 0.7748
+    },
+    "30d": {
+      "active": 18958,
+      "inProfit": 5459,
+      "atLoss": 11897,
+      "shareInProfit": 0.288,
+      "shareAtLoss": 0.6275,
+      "medianRoi": -0.1313,
+      "shareAbove100pct": 0.0358,
+      "profitsUsd": 1312097310,
+      "lossesUsd": -1141836642,
+      "top1ShareOfProfits": 0.8232
+    },
+    "allTime": {
+      "active": 45122,
+      "inProfit": 19217,
+      "atLoss": 25307,
+      "shareInProfit": 0.4259,
+      "shareAtLoss": 0.5609,
+      "medianRoi": -0.1524,
+      "shareAbove100pct": 0.1933,
+      "profitsUsd": 15593606956,
+      "lossesUsd": -5987533629,
+      "top1ShareOfProfits": 0.5996
+    }
+  }
+}
