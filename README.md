@@ -4,20 +4,20 @@ How many Hyperliquid traders make money? Aggregate statistics of **Hyperliquid's
 [StratiDex](https://stratidex.io/stats) — share of accounts in profit and at a loss, median ROI, and how concentrated the profits are.
 No addresses, only aggregates.
 
-## Latest figures (2026-11-17)
+## Latest figures (2026-11-18)
 
-- **63 % of active Hyperliquid traders lost money over the last 30 days** — 11,897 of 18,958 accounts that traded in that period.
+- **62 % of active Hyperliquid traders lost money over the last 30 days** — 11,772 of 18,939 accounts that traded in that period.
 - **The top 1 % took 82 % of all profits** over the last 30 days.
-- The median active account returned **−13.1 %** over 30 days; 3.6 % doubled their money.
-- Accounts in profit made $1.31 billion together over 30 days; accounts at a loss lost $1.14 billion.
-- The leaderboard listed **48,116 accounts**; 2,372 were worth over $1 million (median account value: $392).
+- The median active account returned **−11.8 %** over 30 days; 3.5 % doubled their money.
+- Accounts in profit made $1.25 billion together over 30 days; accounts at a loss lost $1.11 billion.
+- The leaderboard listed **48,165 accounts**; 2,379 were worth over $1 million (median account value: $396).
 
 | Period | Active accounts | In profit | At a loss | Median ROI |
 |---|---|---|---|---|
-| 24 hours | 7,429 | 50 % | 48 % | +0.0 % |
-| 7 days | 14,076 | 32 % | 60 % | −5.2 % |
-| 30 days | 18,958 | 29 % | 63 % | −13.1 % |
-| All time | 45,122 | 43 % | 56 % | −15.2 % |
+| 24 hours | 7,465 | 49 % | 48 % | +0.0 % |
+| 7 days | 14,077 | 32 % | 60 % | −5.3 % |
+| 30 days | 18,939 | 30 % | 62 % | −11.8 % |
+| All time | 45,182 | 43 % | 56 % | −14.8 % |
 
 ## Files
 
@@ -38,7 +38,7 @@ wallet that ever used the exchange.
 
 Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — free to reuse with attribution.
 
-Cite as: *StratiDex, Hyperliquid trader statistics, 2026-11-17, https://stratidex.io/stats*
+Cite as: *StratiDex, Hyperliquid trader statistics, 2026-11-18, https://stratidex.io/stats*
 
 ---
 
