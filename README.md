@@ -4,20 +4,20 @@ How many Hyperliquid traders make money? Aggregate statistics of **Hyperliquid's
 [StratiDex](https://stratidex.io/stats) — share of accounts in profit and at a loss, median ROI, and how concentrated the profits are.
 No addresses, only aggregates.
 
-## Latest figures (2026-11-19)
+## Latest figures (2026-11-21)
 
-- **63 % of active Hyperliquid traders lost money over the last 30 days** — 12,093 of 19,069 accounts that traded in that period.
-- **The top 1 % took 83 % of all profits** over the last 30 days.
-- The median active account returned **−15.8 %** over 30 days; 4.1 % doubled their money.
-- Accounts in profit made $1.48 billion together over 30 days; accounts at a loss lost $1.29 billion.
-- The leaderboard listed **48,003 accounts**; 2,355 were worth over $1 million (median account value: $348).
+- **65 % of active Hyperliquid traders lost money over the last 30 days** — 12,408 of 19,018 accounts that traded in that period.
+- **The top 1 % took 84 % of all profits** over the last 30 days.
+- The median active account returned **−22.3 %** over 30 days; 5.7 % doubled their money.
+- Accounts in profit made $1.95 billion together over 30 days; accounts at a loss lost $1.71 billion.
+- The leaderboard listed **46,271 accounts**; 2,197 were worth over $1 million (median account value: $143).
 
 | Period | Active accounts | In profit | At a loss | Median ROI |
 |---|---|---|---|---|
-| 24 hours | 8,274 | 45 % | 52 % | −0.1 % |
-| 7 days | 14,034 | 31 % | 61 % | −7.8 % |
-| 30 days | 19,069 | 28 % | 63 % | −15.8 % |
-| All time | 45,220 | 42 % | 56 % | −16.1 % |
+| 24 hours | 10,150 | 31 % | 61 % | −4.9 % |
+| 7 days | 14,200 | 29 % | 63 % | −11.0 % |
+| 30 days | 19,018 | 26 % | 65 % | −22.3 % |
+| All time | 44,765 | 41 % | 58 % | −19.9 % |
 
 ## Files
 
@@ -38,7 +38,7 @@ wallet that ever used the exchange.
 
 Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — free to reuse with attribution.
 
-Cite as: *StratiDex, Hyperliquid trader statistics, 2026-11-19, https://stratidex.io/stats*
+Cite as: *StratiDex, Hyperliquid trader statistics, 2026-11-21, https://stratidex.io/stats*
 
 ---
 
